@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60bc3025df594874598a9c94da971f25, type: 3}
+  m_Name: Sign
+  m_EditorClassIdentifier: 
+  maxAmmoInMagazine: 100000000
+  maxAmmo: 10000000
+  damage: 20
+  shootCooldown: 0.3
+  reloadTime: 0
+  castRay: 1
+  spreadKof: 0
+  bulletsInSpread: 1
+  bulletDistance: 2.4
